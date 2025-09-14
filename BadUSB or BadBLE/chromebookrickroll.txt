@@ -1,0 +1,9 @@
+REM Chromebook visit site
+REM Made by cocoa :p
+REM V1
+
+CTRL t
+STRING youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 3000
+STRING f
